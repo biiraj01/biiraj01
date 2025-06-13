@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi there, I'm Biraj 👋
 
-<!--
-**biiraj01/biiraj01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Front-End Developer skilled in React.js, JavaScript, HTML, and CSS. I build responsive and interactive web applications focused on clean code and great user experience. I enjoy turning design ideas into functional websites and continuously improving my skills by working on real projects.
 
-Here are some ideas to get you started:
+🚀 About Me
+💻 Front-End Developer focused on creating interactive UI/UX
+🌱 Learning and exploring React.js and modern frontend tools
+🔗 Connect with me on LinkedIn
+📫 Reach me via email: biraj2003pujari@gmail.com
+🛠️ Skills
+Frontend	Tools & Platforms
+HTML5	Git & GitHub
+CSS3 / Tailwind CSS	VS Code
+JavaScript (ES6+)	Chrome DevTools
+React.js	NPM
+📊 GitHub Stats
+Biraj's GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for visiting my profile! 🚀
+Let's connect and build something amazing together.
